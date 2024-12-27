@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+web-sys = "0.3.76"
+yew = "0.21.0"
+yew-hooks = "0.3.3"
